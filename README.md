@@ -1,7 +1,7 @@
 # GA_from_skyline_export
 Calculation of percent glycation from the skyline peak areas 
 
-The following columns are exported from the skyline document
+The following columns are exported from the skyline document as a report
 1. Protein
 2. Peptide
 3. Peptide modified sequence
